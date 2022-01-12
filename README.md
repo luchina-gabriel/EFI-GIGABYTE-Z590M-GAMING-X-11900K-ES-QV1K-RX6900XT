@@ -1,8 +1,8 @@
 # Gigabyte Z590M Gaming X + i9 11900K (ES) QV1K + RX 6900XT
 
-**Latest working macOS**: 12.0
+**Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.6
+**Current OpenCore**: 0.7.7
 
 ## Complete hardware specs
 - Intel i9 11900K (ES) @ stock
@@ -38,4 +38,7 @@
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
-- [BASE EFI - for 10th Intel Gen - Comet Lake](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE)
+- [BASE EFI Intel Rocket Lake - 11th gen](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE)
+
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
