@@ -9,6 +9,7 @@
 - Gigabyte Z590M Gaming X
 - AMD Radeon RX 6900 XT OC SE Nitro+ (PN 11308-03-20G)
 - 64Gb RAM - 4x 16Gb DDR4 4000Mhz (XMP Enabled)
+- Áudio: Realtek ALC897 (Working with AppleALC 1.6.8 version)
 
 ## What works
 - macOS Big Sur, macOS Catalina and macOS Monterey
